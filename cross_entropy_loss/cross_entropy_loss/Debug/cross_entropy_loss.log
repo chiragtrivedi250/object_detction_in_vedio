@@ -1,0 +1,4 @@
+﻿  cross_entropy_loss.cpp
+c:\users\chirag.trivedi\source\repos\cross_entropy_loss\cross_entropy_loss\cross_entropy_loss.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\chirag.trivedi\source\repos\cross_entropy_loss\cross_entropy_loss\cross_entropy_loss.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  cross_entropy_loss.vcxproj -> C:\Users\chirag.trivedi\Source\Repos\cross_entropy_loss\Debug\cross_entropy_loss.exe

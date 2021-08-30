@@ -1,0 +1,8 @@
+﻿  objectdetectionandtracking.cpp
+c:\users\chirag.trivedi\source\repos\objectdetectionandtracking\objectdetectionandtracking\objectdetectionandtracking.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 328 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  objectdetectionandtracking.vcxproj -> C:\Users\chirag.trivedi\Source\Repos\objectdetectionandtracking\x64\Release\objectdetectionandtracking.exe
